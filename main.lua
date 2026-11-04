@@ -1,14 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
---[[
-    ================================================================================
-    BloxStrike - Complete Cheat Script with Auto Fire, Vector Silent Aim, 
-                 3rd Person Camera & Anti-Aim (At-Targets Backwards + Pitch Down)
-    Documentation / API: https://docs.projectreal.gg/
-    ================================================================================
---]]
-
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/gen2"))()
 
 local Window = Rayfield:CreateWindow({
